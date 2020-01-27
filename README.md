@@ -2,7 +2,7 @@
 
 **[EN]** A self-use logger for typescript
 
-**[CN]** 自用的 typescript 日志
+**[CN]** 自用的 typescript 分级日志
 
 ## Example
 
